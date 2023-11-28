@@ -1,4 +1,6 @@
 # VBA-challenge
+Module 2 VBA Challenge -- Berkeley Data Analytics Boot Camp
+
 This repository contains the VBS script for the Module 2 Challenge. 
 The script that looks through any number of years of stock data and provides relevant information on them. 
 It will calculate the Yearly Change, Percentage of Change, and the Total Volume of each Stock within that year.
